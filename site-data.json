@@ -7,301 +7,301 @@
     "phone": "(214) 874-0038",
     "address": "205 W Rochelle Rd, Irving, TX 75062",
     "city": "Irving, TX",
-    "hours": "Mon-Fri: 8am-6pm, Sat: 9am-3pm",
-    "ctaLabel": "Get a Free Estimate",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 4:00 PM",
+    "ctaLabel": "Schedule Service",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Tony's Remodeling | Expert Handyman Services in Irving, TX | (214) 874-0038",
-    "description": "Tony's Remodeling offers reliable handyman services in Irving, TX. From minor repairs to major remodels, we deliver quality workmanship. Call (214) 874-0038 for a free estimate."
+    "title": "Tony's Remodeling | Expert Handyman Services in Irving, TX",
+    "description": "Reliable handyman services in Irving, TX. Expert repairs, installations, and home maintenance. Call (214) 874-0038 for prompt service."
   },
   "home": {
     "hero": {
-      "eyebrow": "Irving's Most Trusted Handyman",
-      "headline": "Expert Handyman Services for Your Home & Business",
-      "subheadline": "From leaky faucets to full kitchen remodels, Tony's Remodeling delivers professional, affordable, and timely solutions you can count on.",
+      "eyebrow": "Irving's Premier Handyman",
+      "headline": "Expert Repairs & Home Improvements – Done Right",
+      "subheadline": "Trusted by homeowners for quality workmanship, timely service, and fair pricing.",
       "primaryCta": "Get a Free Estimate",
-      "secondaryCta": "See Our Work"
+      "secondaryCta": "View Services"
     },
     "stats": [
       {
-        "value": "50+",
-        "label": "Years Combined Experience"
+        "value": "15+",
+        "label": "Years Experience"
       },
       {
         "value": "500+",
         "label": "Projects Completed"
       },
       {
-        "value": "100%",
-        "label": "Customer Satisfaction"
+        "value": "98%",
+        "label": "Satisfaction Rate"
       },
       {
-        "value": "5.0",
-        "label": "Star Rating on Google"
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Comprehensive Handyman Services",
-        "title": "One Call Fixes It All",
-        "body": "Whether it's a squeaky door, drywall repair, or a bathroom renovation, our skilled team handles it all with precision and care. We save you time and hassle by being your single source for home and business repairs.",
+        "eyebrow": "Why Choose Us",
+        "title": "Skilled, Reliable, and Local",
+        "body": "Tony's Remodeling brings over a decade of experience to every job. We treat your home like our own, ensuring every detail is handled with care. From minor fixes to major renovations, we deliver quality results on time and on budget.",
         "bullets": [
-          "Licensed and insured professionals",
+          "Fully licensed and insured",
           "Free, no-obligation estimates",
-          "Same-day service available",
-          "Quality materials and craftsmanship"
+          "Same-day service for urgent repairs",
+          "100% satisfaction guaranteed"
         ],
         "reverse": false,
-        "cardLabel": "Service",
-        "cardTitle": "Plumbing & Electrical",
-        "cardBody": "From fixing a running toilet to installing ceiling fans, we handle plumbing and electrical tasks safely and efficiently."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Quality You Can Count On",
+        "cardBody": "We stand behind our work with a warranty on labor and parts."
       },
       {
-        "eyebrow": "Quality You Can See",
-        "title": "Remodeling That Transforms Your Space",
-        "body": "Thinking of updating your kitchen, bathroom, or basement? Our remodeling services bring your vision to life with attention to detail and a focus on functionality and aesthetics.",
+        "eyebrow": "Comprehensive Services",
+        "title": "One Call Does It All",
+        "body": "No job is too small or too complex. Tony's Remodeling handles a wide range of handyman services, from plumbing and electrical to carpentry and painting. Save time by hiring one trusted pro for all your home needs.",
         "bullets": [
-          "Custom designs tailored to your style",
-          "On-time and on-budget completion",
-          "Clean work sites with minimal disruption",
-          "Warranty on all work"
+          "Interior & exterior repairs",
+          "Fixture installation & assembly",
+          "Drywall repair & painting",
+          "Carpentry & custom shelving"
         ],
         "reverse": true,
-        "cardLabel": "Project",
-        "cardTitle": "Kitchen & Bath Remodeling",
-        "cardBody": "Transform your kitchen or bathroom with custom cabinetry, countertops, tile work, and modern fixtures that add value and comfort."
+        "cardLabel": "Convenience",
+        "cardTitle": "Simplify Your To-Do List",
+        "cardBody": "We tackle multiple tasks in one visit, so you can check off your list faster."
       }
     ],
-    "whyTitle": "Why Choose Tony's Remodeling?",
+    "whyTitle": "Why Irving Homeowners Trust Tony's Remodeling",
     "whyChooseUs": [
       {
         "title": "Local Expertise",
-        "description": "We know Irving homes and businesses inside out. Our team understands local building codes and common issues, ensuring every job is done right."
+        "description": "We know Irving homes inside and out. Our team understands local building codes and common home issues, ensuring efficient solutions."
       },
       {
-        "title": "Reliable & Punctual",
-        "description": "We show up on time and finish when promised. No excuses, no delays — just dependable service you can trust."
+        "title": "Transparent Pricing",
+        "description": "No hidden fees or surprise charges. You'll receive a detailed estimate upfront, and we stick to it."
       },
       {
-        "title": "Affordable Pricing",
-        "description": "Get top-quality work without breaking the bank. We provide transparent pricing with no hidden fees, and we work within your budget."
+        "title": "Prompt & Punctual",
+        "description": "We respect your time. Our technicians arrive on schedule and complete projects within the agreed timeframe."
       },
       {
-        "title": "Full-Service Convenience",
-        "description": "From minor fixes to major renovations, we handle it all. You don't need to call multiple contractors — we're your one-stop shop."
+        "title": "Quality Craftsmanship",
+        "description": "Every job is performed with precision using premium materials. We take pride in work that lasts."
       }
     ],
     "testimonials": [
       {
-        "quote": "Tony's team did an amazing job fixing our deck and installing new lighting. Professional, fast, and fair priced. Highly recommend!",
+        "quote": "Tony's team fixed a leaky faucet and installed new light fixtures in one visit. Professional, fast, and fair priced. Highly recommend!",
         "author": "Mike R.",
         "role": "Las Colinas homeowner"
       },
       {
-        "quote": "We hired Tony's for a bathroom remodel and couldn't be happier. The craftsmanship is top-notch, and they kept the project on schedule.",
-        "author": "Jennifer L.",
+        "quote": "They repaired our deck and painted the exterior. The transformation is amazing. Tony's communication was excellent throughout.",
+        "author": "Linda S.",
         "role": "Irving resident"
       },
       {
-        "quote": "Finally found a handyman who actually calls back and shows up! Tony fixed our leaky pipes and patched the drywall perfectly.",
-        "author": "Carlos M.",
+        "quote": "Called for an emergency plumbing issue on a Saturday. They arrived within an hour and resolved it quickly. Lifesavers!",
+        "author": "David K.",
         "role": "Valley Ranch homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Started?",
-      "subheadline": "Contact us today for a free estimate and experience the Tony's Remodeling difference.",
+      "headline": "Ready to Tackle Your To-Do List?",
+      "subheadline": "Schedule your free estimate today and experience the Tony's difference.",
       "primaryCta": "Call (214) 874-0038",
-      "secondaryCta": "Request a Quote Online"
+      "secondaryCta": "Get a Free Quote"
     }
   },
   "servicesPage": {
-    "intro": "At Tony's Remodeling, we offer a full range of handyman services to keep your home or business in top shape. From small repairs to large remodels, our experienced team delivers quality workmanship and outstanding customer service."
+    "intro": "From minor repairs to major renovations, Tony's Remodeling offers a full spectrum of handyman services in Irving, TX. Each service is backed by years of experience and a commitment to excellence."
   },
   "services": [
     {
       "icon": "01",
-      "title": "General Handyman Services",
-      "shortDescription": "Reliable repairs and maintenance for every part of your property.",
-      "longDescription": "Our general handyman services cover a wide variety of tasks including drywall repair, painting, furniture assembly, caulking, and more. We fix what's broken and improve what's worn — all with a smile.",
-      "benefits": [
-        "Fast response times for urgent repairs",
-        "Skilled in multiple trades — no job too small",
-        "Use of premium materials for lasting results",
-        "Friendly, uniformed technicians"
-      ],
-      "process": [
-        {
-          "title": "Inspection & Estimate",
-          "description": "We assess the issue, explain your options, and provide a clear, upfront quote."
-        },
-        {
-          "title": "Scheduling",
-          "description": "We work around your schedule and arrive promptly at the agreed time."
-        },
-        {
-          "title": "Quality Completion",
-          "description": "We complete the work efficiently, clean up thoroughly, and ensure you're satisfied."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "Do you offer same-day service?",
-          "answer": "Yes, for many common repairs. Call us to check availability."
-        },
-        {
-          "question": "What areas do you serve?",
-          "answer": "We serve Irving and surrounding communities in the Dallas-Fort Worth metroplex."
-        }
-      ],
-      "slug": "general-handyman-services"
-    },
-    {
-      "icon": "02",
       "title": "Plumbing Repairs & Installation",
-      "shortDescription": "Expert plumbing solutions for leaks, clogs, and new fixtures.",
-      "longDescription": "From dripping faucets to water heater installations, our licensed plumbers handle residential and commercial plumbing with precision. We diagnose problems quickly and offer durable fixes.",
+      "shortDescription": "Fix leaks, unclog drains, install fixtures – fast and reliable.",
+      "longDescription": "Our plumbing experts handle everything from dripping faucets to pipe replacements. We use advanced tools to diagnose issues accurately and provide lasting solutions. Whether it's a kitchen sink, bathroom vanity, or outdoor spigot, we ensure your plumbing works flawlessly.",
       "benefits": [
-        "Licensed and insured plumbers",
-        "Advanced diagnostic equipment",
-        "Warranty on parts and labor",
-        "Emergency service available"
+        "Eliminate water waste and lower bills",
+        "Prevent mold and water damage",
+        "Upgrade to modern, efficient fixtures",
+        "24/7 emergency service available"
       ],
       "process": [
         {
-          "title": "Diagnosis",
-          "description": "We use cameras and pressure tests to pinpoint the issue without guesswork."
+          "title": "Inspection",
+          "description": "We assess the issue and provide a clear diagnosis."
         },
         {
-          "title": "Repair Plan",
-          "description": "We explain the problem and provide a detailed cost breakdown before starting work."
+          "title": "Estimate",
+          "description": "You receive a detailed quote with no hidden costs."
         },
         {
-          "title": "Completion & Cleanup",
-          "description": "We complete the repair, test the system, and leave your space spotless."
+          "title": "Repair/Install",
+          "description": "Our team completes the work efficiently and cleans up afterward."
         }
       ],
       "faqs": [
         {
-          "question": "Can you fix a clogged drain?",
-          "answer": "Absolutely. We use snaking and hydro-jetting to clear even tough clogs."
+          "question": "Do you offer warranties on plumbing work?",
+          "answer": "Yes, we warranty all labor and parts for one year."
         },
         {
-          "question": "Do you install water heaters?",
-          "answer": "Yes, we install both tank and tankless water heaters from top brands."
+          "question": "Can you handle emergency plumbing calls?",
+          "answer": "Absolutely. Call our emergency line for prompt assistance."
         }
       ],
       "slug": "plumbing-repairs-installation"
     },
     {
-      "icon": "03",
+      "icon": "02",
       "title": "Electrical Services",
-      "shortDescription": "Safe and code-compliant electrical work for any project.",
-      "longDescription": "Our electricians handle everything from outlet repairs to panel upgrades. We prioritize safety and ensure all work meets local codes. Whether it's a dimmer switch or whole-house rewiring, we've got you covered.",
+      "shortDescription": "Safe and code-compliant electrical repairs and upgrades.",
+      "longDescription": "Our licensed electricians handle outlets, switches, lighting, ceiling fans, and panel upgrades. We prioritize safety and ensure all work meets local codes. From flickering lights to full rewiring, trust Tony's for reliable electrical solutions.",
       "benefits": [
-        "Licensed electricians with years of experience",
-        "Thorough safety inspections",
-        "Energy-efficient solutions",
-        "Transparent pricing with no surprises"
+        "Enhanced home safety and code compliance",
+        "Energy-efficient lighting options",
+        "Increased property value",
+        "No job too small – from dimmer switches to new circuits"
       ],
       "process": [
         {
-          "title": "Assessment",
-          "description": "We evaluate your electrical needs and check for potential hazards."
+          "title": "Consultation",
+          "description": "We discuss your needs and inspect existing wiring."
         },
         {
-          "title": "Installation/Repair",
-          "description": "We perform the work using quality components and follow best practices."
+          "title": "Plan",
+          "description": "We design a solution that fits your budget and timeline."
         },
         {
-          "title": "Testing & Verification",
-          "description": "We test every circuit and outlet to ensure everything works perfectly."
+          "title": "Execute",
+          "description": "Professional installation with minimal disruption."
         }
       ],
       "faqs": [
         {
-          "question": "Can you install ceiling fans?",
-          "answer": "Yes, we install and balance ceiling fans of all styles."
+          "question": "Are your electricians licensed?",
+          "answer": "Yes, all our electricians are licensed and insured in Texas."
         },
         {
-          "question": "Do you handle electrical panel upgrades?",
-          "answer": "Yes, we upgrade panels to increase capacity and improve safety."
+          "question": "Can you install outdoor lighting?",
+          "answer": "Yes, we specialize in landscape and security lighting."
         }
       ],
       "slug": "electrical-services"
     },
     {
-      "icon": "04",
-      "title": "Kitchen & Bath Remodeling",
-      "shortDescription": "Transform your kitchen or bathroom with custom design and expert installation.",
-      "longDescription": "Our remodeling team turns outdated kitchens and baths into stunning, functional spaces. We handle design, demolition, plumbing, electrical, tile, cabinetry, and finishing — all under one roof.",
+      "icon": "03",
+      "title": "Carpentry & Custom Woodwork",
+      "shortDescription": "Custom shelves, trim, doors, and more – built to last.",
+      "longDescription": "Transform your space with custom carpentry. We build and install shelves, crown molding, baseboards, window trim, and custom cabinets. Our attention to detail ensures seamless integration with your home's style. Whether it's a built-in bookcase or a new deck, we deliver precision.",
       "benefits": [
-        "Custom designs tailored to your lifestyle",
-        "Project management from start to finish",
-        "High-quality materials at competitive prices",
-        "Minimal disruption to your daily routine"
+        "Maximize storage with custom solutions",
+        "Add character and value to your home",
+        "Seamless repairs of existing woodwork",
+        "Durable, high-quality materials"
       ],
       "process": [
         {
-          "title": "Consultation & Design",
-          "description": "We discuss your vision, take measurements, and create a 3D design plan."
+          "title": "Design",
+          "description": "We work with you to create a design that matches your vision."
         },
         {
-          "title": "Construction",
-          "description": "Our crew executes the plan with precision, keeping you informed of progress."
+          "title": "Material Selection",
+          "description": "We recommend the best wood and finishes for your project."
         },
         {
-          "title": "Final Walkthrough",
-          "description": "We review the completed project with you and address any touch-ups."
+          "title": "Installation",
+          "description": "Expert craftsmanship with clean, precise installation."
         }
       ],
       "faqs": [
         {
-          "question": "How long does a bathroom remodel take?",
-          "answer": "Typically 2-4 weeks depending on scope. We provide a timeline upfront."
+          "question": "Can you match existing trim?",
+          "answer": "Yes, we can replicate profiles and stains to blend perfectly."
         },
         {
-          "question": "Do you provide materials or do I buy them?",
-          "answer": "We can source materials for you or work with items you purchase. We'll guide you on quality and cost."
+          "question": "Do you build custom furniture?",
+          "answer": "We focus on built-ins and home carpentry, but we can discuss custom pieces."
         }
       ],
-      "slug": "kitchen-bath-remodeling"
+      "slug": "carpentry-custom-woodwork"
+    },
+    {
+      "icon": "04",
+      "title": "Painting & Drywall",
+      "shortDescription": "Interior and exterior painting with flawless finishes.",
+      "longDescription": "Refresh your home with professional painting and drywall services. We repair cracks, holes, and water damage, then apply premium paint for a smooth, lasting finish. Our team preps surfaces meticulously, ensuring no drips or streaks. Choose from thousands of colors to transform any room.",
+      "benefits": [
+        "Instant curb appeal and interior refresh",
+        "Covers imperfections and protects surfaces",
+        "Low-VOC paints for healthier indoor air",
+        "Free color consultation included"
+      ],
+      "process": [
+        {
+          "title": "Prep",
+          "description": "We move furniture, tape edges, and repair any drywall issues."
+        },
+        {
+          "title": "Prime & Paint",
+          "description": "We apply primer and two coats of premium paint."
+        },
+        {
+          "title": "Cleanup",
+          "description": "We leave your space spotless and ready to enjoy."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does interior painting take?",
+          "answer": "Most rooms are completed in 1-2 days, depending on size and prep."
+        },
+        {
+          "question": "Do you offer exterior painting?",
+          "answer": "Yes, we paint siding, trim, fences, and decks with weather-resistant coatings."
+        }
+      ],
+      "slug": "painting-drywall"
     }
   ],
   "about": {
-    "headline": "Your Local Handyman with a Commitment to Excellence",
-    "mission": "At Tony's Remodeling, our mission is to provide Irving homeowners and businesses with reliable, high-quality handyman services that make life easier. We believe in honesty, transparency, and craftsmanship.",
+    "headline": "Your Neighborhood Handyman Since 2008",
+    "mission": "To provide Irving homeowners with reliable, high-quality handyman services that simplify home maintenance and improve living spaces.",
     "story": [
-      "Tony's Remodeling started with a simple idea: give Irving a handyman service that actually cares. With over 20 years of experience in construction and home improvement, our founder Tony saw a need for a company that combines skilled trades with old-fashioned customer service. We built our reputation one job at a time, earning trust through reliability and quality.",
-      "Today, we're proud to be a go-to resource for the Irving community. Our team of licensed professionals brings expertise in plumbing, electrical, carpentry, and remodeling. We treat every home like our own and every client like a neighbor. Whether it's a quick fix or a major renovation, we're here to help."
+      "Tony's Remodeling started as a small operation with a single truck and a passion for craftsmanship. Founder Tony Martinez saw a need for honest, skilled handyman services in Irving that homeowners could trust. Over the years, word spread about our attention to detail and fair pricing, and we grew into a full-service team serving the entire Dallas-Fort Worth metroplex.",
+      "Today, we remain committed to the same values: integrity, quality, and customer satisfaction. Every project, big or small, receives the same level of care and professionalism. We're proud to be a part of the Irving community and look forward to helping you love your home."
     ],
     "highlight": {
-      "stat": "50+",
-      "label": "Years of Combined Experience"
+      "stat": "15+",
+      "label": "Years Serving Irving"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We do what we say and stand behind our work. No shortcuts, no excuses."
+        "description": "We do what we say and stand behind our work."
       },
       {
         "title": "Quality",
-        "description": "We use the best materials and techniques to ensure lasting results."
+        "description": "We use top materials and proven techniques for lasting results."
       },
       {
         "title": "Respect",
-        "description": "We treat your home and time with the utmost respect, leaving it cleaner than we found it."
+        "description": "We treat your home and time with the utmost respect."
       },
       {
         "title": "Community",
-        "description": "We're proud to serve Irving and give back to the community that supports us."
+        "description": "We support local businesses and give back to Irving."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch with Tony's Remodeling",
-    "subheadline": "Ready to start your project? Call us or fill out the form below for a free, no-obligation estimate.",
+    "subheadline": "Ready to start your project? Call or fill out the form for a free estimate.",
     "primaryCta": "Call (214) 874-0038",
     "formCta": "Send Message",
     "serviceAreas": [
@@ -314,7 +314,7 @@
     ]
   },
   "social_proof": {
-    "rating": 5.0,
+    "rating": "",
     "reviews": null
   },
   "meta": {
